@@ -1,0 +1,4 @@
+name: Proxy
+version: '${project.version}'
+main: de.verklickt.proxy.Main
+description: Craftunity SyncProxy
